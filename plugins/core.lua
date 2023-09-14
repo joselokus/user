@@ -74,4 +74,7 @@ return {
   --     }, { mode = "n", prefix = "<leader>" })
   --   end,
   -- },
+  {
+    'sainnhe/sonokai',
+  },
 }
